@@ -1,7 +1,7 @@
 ---
 title: "Module Introduction to Python 3"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: module-introduction-to-python-3
 morea_prerequisites:
 morea_outcomes:
