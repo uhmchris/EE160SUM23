@@ -23,10 +23,6 @@ print(‘The sum of x and y is:’, z)
 
 In this example, the print() statements output various messages and the result of an expression to the console. The output helps developers understand program behavior and aids in the debugging and development process.
 
-
-
-
-
 Comment:
 Comments in Python are textual annotations that provide explanations, context, or notes within the source code. They are preceded by the hash symbol # and are ignored by the Python interpreter during program execution. Comments enhance code readability, aid in documentation, and facilitate collaboration among developers.
 
