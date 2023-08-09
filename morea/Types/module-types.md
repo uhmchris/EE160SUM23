@@ -1,7 +1,7 @@
 ---
 title: "Module Types"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: module-types
 morea_prerequisites:
 morea_outcomes:
