@@ -1,7 +1,7 @@
 ---
 title: "Module Strings"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: module-strings
 morea_prerequisites:
 morea_outcomes:
