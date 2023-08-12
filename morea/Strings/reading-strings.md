@@ -3,7 +3,6 @@ title: "Strings"
 published: true
 morea_id: reading-strings
 morea_summary: "Strings"
-morea_url: https://github.com/airbnb/javascript
 morea_type: reading
 morea_labels:
 ---
