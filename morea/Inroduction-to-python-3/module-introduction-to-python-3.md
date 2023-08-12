@@ -14,7 +14,7 @@ morea_icon_url: /morea/introduction-to-python-3/introduction-to-python-3.png
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:
-morea_sort_order: 10
+morea_sort_order: 100
 ---
 
 introduction to python 3
