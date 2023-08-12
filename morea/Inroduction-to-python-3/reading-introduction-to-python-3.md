@@ -3,7 +3,6 @@ title: "Introduction to python 3"
 published: true
 morea_id: reading-introduction-to-python-3
 morea_summary: "Introduction to python 3"
-morea_url: https://github.com/airbnb/javascript
 morea_type: reading
 morea_labels:
 ---
