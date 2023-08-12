@@ -3,7 +3,6 @@ title: "Loops"
 published: true
 morea_id: reading-loops
 morea_summary: "loops"
-morea_url: https://github.com/airbnb/javascript
 morea_type: reading
 morea_labels:
 ---
