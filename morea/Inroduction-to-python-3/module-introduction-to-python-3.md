@@ -6,7 +6,7 @@ morea_id: module-introduction-to-python-3
 morea_prerequisites:
 morea_outcomes:
 morea_readings:
-  # - reading-introduction-to-python-3
+  - reading-introduction-to-python-3
 morea_experiences:
 morea_assessments:
 morea_type: module
