@@ -17,4 +17,4 @@ morea_labels:
 morea_sort_order: 100
 ---
 
-introduction to python 3
+Introduction to python 3
