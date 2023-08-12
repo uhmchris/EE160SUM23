@@ -3,7 +3,6 @@ title: "Types"
 published: true
 morea_id: reading-types
 morea_summary: "Types"
-morea_url: https://github.com/airbnb/javascript
 morea_type: reading
 morea_labels:
 ---
