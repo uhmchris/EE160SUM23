@@ -14,7 +14,7 @@ morea_icon_url: /morea/loops/loops.png
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16"
 morea_labels:
-morea_sort_order: 30
+morea_sort_order: 3
 ---
 
 Loops
