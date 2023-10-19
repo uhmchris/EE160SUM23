@@ -10,7 +10,7 @@ morea_labels:
 While loops:
 A while loop in Python is a control structure that repeatedly executes a block of code as long as a specified condition remains True. The loop continues to run until the condition becomes False. while loops are used when the number of iterations is not known beforehand or when you need to continuously perform an action until a certain condition is met.
 
-```
+```python
 # Using a while loop to count and display numbers
 count = 1
 while count <= 5:
@@ -23,9 +23,9 @@ In this example, the while loop counts and displays numbers from 1 to 5. While l
 For loops:
 A for loop in Python is a control structure used to iterate over a sequence of elements, such as lists, tuples, strings, or ranges. It executes a block of code for each element in the sequence, allowing you to process data, perform calculations, or automate tasks efficiently.
 
-```
+```python
 # Using a for loop to iterate over a list
-fruits = [‘apple’, ‘banana’, ‘cherry’]
+fruits = ['apple', 'banana', 'cherry']
 for fruit in fruits:
     print(fruit)
 
@@ -34,7 +34,7 @@ for i in range(5):
     print(i)
 
 # Using a for loop to iterate over characters in a string
-word = ‘Python’
+word = 'Python'
 for char in word:
     print(char)
 ```
@@ -44,12 +44,12 @@ In this example, the for loop is used to iterate over different types of sequenc
 Nested loops:
 Nested loops in Python refer to the practice of using one loop inside another loop. This allows you to perform more complex iterations, such as iterating over multiple sequences simultaneously or creating patterns with multiple levels of repetition. Nested loops are used to solve problems that involve multidimensional data or require repeated actions within a larger context.
 
-```
+```python
 # Using nested loops to create a multiplication table
 for i in range(1, 6):
     for j in range(1, 6):
         result = i * j
-        print(f’{i} * {j} = {result}’)
+        print(f'{i} * {j} = {result}')
     print()  # Add a blank line after each row
 
 # Using nested loops to process a list of lists (matrix)
@@ -61,7 +61,7 @@ matrix = [
 
 for row in matrix:
     for element in row:
-        print(element, end=’ ‘)
+        print(element, end=' ')
     print()  # Move to the next row
 ```
 
@@ -72,7 +72,7 @@ Break and continue are two control statements in Python that allow you to modify
 The break statement is used to prematurely exit a loop, ending the loop's execution even if the loop's condition is still true.
 The continue statement is used to skip the rest of the current iteration of a loop and move on to the next iteration.
 
-```
+```python
 # Using break to exit a loop prematurely
 numbers = [1, 2, 3, 4, 5]
 for num in numbers:

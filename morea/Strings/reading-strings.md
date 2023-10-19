@@ -10,7 +10,7 @@ morea_labels:
 String slicing:
 String slicing in Python refers to the process of extracting a portion (substring) of a string by specifying a range of indices. The result is a new string that includes the characters from the specified start index up to (but not including) the end index. String slicing allows you to manipulate and extract parts of a string efficiently.
 
-```
+```python
 # Using string slicing to extract substrings
 message = 'Hello world'
 
@@ -27,10 +27,10 @@ In this example, various slices of the message string are extracted using string
 String splitting:
 String splitting in Python refers to the process of breaking a string into a list of substrings based on a specified delimiter. The split() method is used to perform string splitting, and it returns a list of substrings created by dividing the original string wherever the delimiter occurs.
 
-```
+```python
 # Using the split() method to split a string
 
-sentence = ‘Python is a powerful programming language’
+sentence = 'Python is a powerful programming language'
 words = sentence.split()   # Splits the string at spaces by default
 print(words)
 Output: ['Python', 'is', 'a', 'powerful', 'programming', 'language']
@@ -51,7 +51,7 @@ In this example, the split() method is used to split the sentence string into a 
 String joining:
 String joining in Python refers to the process of combining multiple strings (or other iterable objects) into a single string using a specified delimiter. The join() method is used to perform string joining, where each element of the iterable is concatenated with the delimiter to create the final string.
 
-```
+```python
 # Using the join() method to join strings
 words = ['Python', 'is', 'a', 'powerful', 'programming', 'language']
 sentence = ' '.join(words)  # Joining with a space delimiter
