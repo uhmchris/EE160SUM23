@@ -67,7 +67,7 @@ for row in matrix:
 
 Nested loops can be used to create a multiplication table and process a matrix (list of lists). Nested loops provide a way to handle multidimensional data structures and perform repetitive tasks within a larger context. However, be mindful of the potential complexity and performance implications when using deeply nested loops.
 
-Break and continue:
+#Break and continue
 Break and continue are two control statements in Python that allow you to modify the behavior of loops.
 The break statement is used to prematurely exit a loop, ending the loop's execution even if the loop's condition is still true.
 The continue statement is used to skip the rest of the current iteration of a loop and move on to the next iteration.
