@@ -30,7 +30,7 @@ length = len(message)
 name = 'Alice'
 age = 30
 info = 'Name: {}, Age: {}'.format(name, age)  # Using the format() method
-f_info = f'Name: {name}, Age: {age}'         # Using f-strings
+f_info = f'Name: {name}, Age: {age}'          # Using f-strings
 ```
 
 In this example, various string operations are demonstrated, including string creation, concatenation, indexing, length calculation, and formatting. Strings are versatile and play a crucial role in text processing and manipulation tasks in Python.
